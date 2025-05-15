@@ -1,0 +1,159 @@
+datasets:
+  - json_path: [YOUR JSON FOLDER]/CLEVR-Math(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/FigureQA(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/GEOS(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/GeoQA+(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/Geometry3K(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/IconQA(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/MapQA(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/PMC-VQA(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/Super-CLEVR(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/TabMWP(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/UniGeo(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/VisualWebInstruct(filtered)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/VizWiz(MathV360K)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/ai2d(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/ai2d(gpt4v)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/ai2d(internvl)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/allava_instruct_laion4v/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/allava_instruct_vflan4v/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/aokvqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/chart2text(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/chartqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/chrome_writting/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/clevr(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/diagram_image_to_text(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/dvqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/figureqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/geo170k(align)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/geo170k(qa)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/geo3k/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/geomverse(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/hateful_memes(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/hitab(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/hme100k/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/iam(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/iconqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/iiit5k/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/image_textualization(filtered)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/infographic(gpt4v)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/infographic_vqa/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/infographic_vqa_llava_format/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/intergps(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/k12_printing/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/llavar_gpt4_20k/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/lrv_chart/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/lrv_normal(filtered)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/mapqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/mavis_math_metagen/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/mavis_math_rule_geo/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/multihiertt(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/orand_car_a/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/raven(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/rendered_text(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/robut_sqa(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/robut_wikisql(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/robut_wtq(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/scienceqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/scienceqa(nona_context)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/screen2words(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sharegpt4o/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sharegpt4v(coco)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sharegpt4v(knowledge)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sharegpt4v(llava)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sharegpt4v(sam)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/sroie/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/st_vqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/tabmwp(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/tallyqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/textcaps/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/textocr(gpt4v)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/tqa(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/ureader_cap/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/ureader_ie/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/vision_flan(filtered)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/vistext(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/visual7w(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/visualmrc(cauldron)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/vqarad(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/vsr(cauldron,llava_format)/data.json
+    sampling_strategy: "random:10%"
+  - json_path: [YOUR JSON FOLDER]/websight(cauldron)/data.json
+    sampling_strategy: "random:10%"

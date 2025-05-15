@@ -1,0 +1,78 @@
+datasets:
+  # scannet
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/1_reduced.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/5.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/6.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/7.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/250125_complex_1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/250125_complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/250125_complex_3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/250125_complex_4.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannet_20250314/data_for_training_slim/complex_4_1.json
+    sampling_strategy: "all"
+  # scannetpp
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/1_reduced.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/5_(0.9).json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/6_(0.2).json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/7.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/250125_complex_1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/250125_complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/250125_complex_3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/250125_complex_4.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_scannetpp_20250314/data_for_training_exclude_slim/complex_4_1.json
+    sampling_strategy: "all"
+  # arkitscenes
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/5.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/6.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/250125_complex_1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/250125_complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/250125_complex_3.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/250125_complex_4.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/A-1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/complex_2.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/complex_4_1.json
+    sampling_strategy: "all"
+  - json_path: [YOUR JSON FOLDER]/data_arkitscenes/data_for_training_exclude_slim/7.json
+    sampling_strategy: "all"
