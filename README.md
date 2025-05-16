@@ -713,7 +713,7 @@ def load_video(video_path, max_frames_num,fps=1,force_sample=False):
     # import pdb;pdb.set_trace()
     return spare_frames,frame_time,video_time
 
-pretrained = "nkkbr/ViCA2-stage2-onevision-ft"
+pretrained = "nkkbr/ViCA2"
 model_name = "vica_qwen"
 device = "cuda"
 device_map = "auto"
