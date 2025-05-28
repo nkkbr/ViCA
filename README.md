@@ -10,7 +10,8 @@
 
 [![W&B Logs](https://img.shields.io/badge/%F0%9F%93%9C%20W%26B-ViCA2%20Training%20Logs-orange)](https://api.wandb.ai/links/fengqi2016/zpzebnuj)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.12363-B31B1B?logo=arxiv&link=https://arxiv.org/abs/2505.12363)](https://arxiv.org/abs/2505.12363)
+[![Technical Report (Draft)](https://img.shields.io/badge/Technical_Report(Draft)-ViCA2-blue?logo=readthedocs)](https://github.com/nkkbr/ViCA/blob/main/reports/ViCA2.pdf)
+
 <!-- [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) -->
 
 ---
@@ -25,7 +26,7 @@ ViCA was fine-tuned based on the LLaVA-NeXT framework (our sincere thanks to the
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA-blue)](https://huggingface.co/nkkbr/ViCA)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA--Collections-00008B)](https://huggingface.co/collections/nkkbr/vica-6814d9ea0a4245f36b848cb1)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.12312-B31B1B?logo=arxiv&link=https://arxiv.org/abs/2505.12312)](https://arxiv.org/abs/2505.12312)
+[![Technical Report (Draft)](https://img.shields.io/badge/Technical_Report(Draft)-ViCA-blue?logo=readthedocs)](https://github.com/nkkbr/ViCA/blob/main/reports/ViCA.pdf)
 ---
 
 This repository contains the official implementation and resources for **ViCA2 (Visuospatial Cognitive Assistant 2)**, a novel Multimodal Large Language Model (MLLM) designed to significantly enhance visuospatial cognition. ViCA2 excels at reasoning about spatial layouts, relations, and dynamics in both image and video settings.
