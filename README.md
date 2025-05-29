@@ -2,11 +2,11 @@
 
 
 
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA2-blue)](https://huggingface.co/nkkbr/ViCA2)
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA2--Collections-00008B)](https://huggingface.co/collections/nkkbr/vica2-68175b045c2407a800910b06)
+[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Model-ViCA2-blue)](https://huggingface.co/nkkbr/ViCA2)
+[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Models-ViCA2--Collections-00008B)](https://huggingface.co/collections/nkkbr/vica2-68175b045c2407a800910b06)
 
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA--322K-purple)](https://huggingface.co/datasets/nkkbr/ViCA-322K)
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA--thinking--2.68k-purple)](https://huggingface.co/datasets/nkkbr/ViCA-thinking-2.68k)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Dataset-ViCA--322K-purple)](https://huggingface.co/datasets/nkkbr/ViCA-322K)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Dataset-ViCA--thinking--2.68k-purple)](https://huggingface.co/datasets/nkkbr/ViCA-thinking-2.68k)
 
 [![W&B Logs](https://img.shields.io/badge/%F0%9F%93%9C%20W%26B-ViCA2%20Training%20Logs-orange)](https://api.wandb.ai/links/fengqi2016/zpzebnuj)
 
@@ -23,8 +23,8 @@
 For information regarding the original **ViCA** model, including its introduction and model weight downloads, please consult [**this link**](https://huggingface.co/nkkbr/ViCA). 
 ViCA was fine-tuned based on the LLaVA-NeXT framework (our sincere thanks to the LLaVA-NeXT team), and its model architecture aligns with LLaVA-NeXT. While you can clone the [LLaVA-NeXT repository](https://github.com/LLaVA-VL/LLaVA-NeXT) for its base structure, this ViCA2 repository actually includes the LLaVA-NeXT codebase. Furthermore, this repository also contains example scripts used for training the original ViCA. Therefore, if you intend to fine-tune your own ViCA-like model using custom data, cloning this repository is also a viable option.
 
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA-blue)](https://huggingface.co/nkkbr/ViCA)
-[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ViCA--Collections-00008B)](https://huggingface.co/collections/nkkbr/vica-6814d9ea0a4245f36b848cb1)
+[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Model-ViCA-blue)](https://huggingface.co/nkkbr/ViCA)
+[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20Models-ViCA--Collections-00008B)](https://huggingface.co/collections/nkkbr/vica-6814d9ea0a4245f36b848cb1)
 
 [![Technical Report (Draft)](https://img.shields.io/badge/Technical_Report(Draft)-ViCA-blue?logo=readthedocs)](https://github.com/nkkbr/ViCA/blob/main/reports/ViCA.pdf)
 ---
