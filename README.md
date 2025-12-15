@@ -889,15 +889,24 @@ We also explored a **ViCA2-7B-Thinking** model, fine-tuned on the **ViCA-Thinkin
 *   Fine-tuning the Hiera backbone for deeper adaptation.
 *   Extending ViCA2's application to embodied AI tasks like navigation and robotic interaction.
 
-<!-- ## Citation
+## Citation
 
-If you find ViCA2 or the ViCA-322K dataset useful in your research, please cite our paper:
+If you find our work helpful, we would appreciate it if you cite the following papers.
 
 ```bibtex
-@article{feng_vica2_2025,
-  title={{Towards Visuospatial Cognition via Hierarchical Fusion of Visual Experts}},
-  author={},         // TODO: Replace with actual authors
-  journal={arXiv preprint arXiv:XXXX.XXXXX}, // TODO: Replace with actual arXiv ID
-  year={2024}                                // TODO: Replace with actual year
+@misc{feng2025vica2,
+      title={Towards Visuospatial Cognition via Hierarchical Fusion of Visual Experts}, 
+      author={Feng, Qi},
+      publisher={arXiv:2505.12363},
+      year={2025},
 }
-``` -->
+```
+
+```bibtex
+@misc{feng2025vica,
+      title={Visuospatial Cognitive Assistant}, 
+      author={Feng, Qi},
+      publisher={arXiv:2505.12312},
+      year={2025},
+}
+```
